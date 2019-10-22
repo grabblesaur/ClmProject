@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clm-project</string>
+    <string name="commission">Commission: %f</string>
+    <string name="currency">Currency: %s</string>
+</resources>
